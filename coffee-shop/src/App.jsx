@@ -5,7 +5,11 @@ export default function App() {
     <div>
       <h1>쇼핑몰 프로젝트 시작!</h1>
       <p>이제 여러분의 컴포넌트를 만들어보세요.</p>
+<<<<<<< HEAD
       <p>영일이 브랜치 테스트 </p>
+=======
+      <p>이재민 TEST</p>
+>>>>>>> jaemin
     </div>
   );
 }
